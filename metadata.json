@@ -1,0 +1,6 @@
+{
+  "name": "Wendy | Personal Website & Social Hub",
+  "description": "歐美簡潔風格個人品牌網站與社群聚合頁面，提供 IG、Portaly 社群快速導流與個人介紹。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
